@@ -1,0 +1,6 @@
+openai==0.28
+python-dotenv==1.0.1
+rdkit==2023.09.5
+
+requests==2.31.0
+streamlit==1.33.0

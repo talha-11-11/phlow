@@ -1,0 +1,6 @@
+deepchem[tensorflow]==2.7.1
+fastapi==0.109.2
+numpy==1.23.5
+python-dotenv==1.0.1
+SQLAlchemy==1.4.23
+transformers==4.36.2
